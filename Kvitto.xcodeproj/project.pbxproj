@@ -572,7 +572,7 @@
 			};
 			buildConfigurationList = A79541BC1BC3FA2000EC73B1 /* Build configuration list for PBXProject "Kvitto" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
